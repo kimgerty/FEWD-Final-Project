@@ -121,7 +121,7 @@ main {
   }
   #menu ul.topnav.responsive li {
     float: none;
-    display: inline;
+    display: block;
   }
   #menu ul.topnav.responsive li a {
     diplay: block;
