@@ -1,0 +1,28 @@
+body {
+  background-image: url("../img/peach_landing.jpg");
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
+}
+
+main {
+  background-color: black;
+  height: 300px;
+  width: 450px;
+  border: 200px;
+  padding-left: 40px;
+  padding-top: 30px;
+}
+
+main img {
+  width: 400px;
+}
+a {
+  color: #ee4035;
+  font-size: 30px;
+  text-decoration: none;
+}
+a.enter:hover, a.enter:active {
+  border: white solid 3px;
+}
